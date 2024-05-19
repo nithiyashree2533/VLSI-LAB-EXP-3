@@ -73,7 +73,7 @@ STEP:11  On the board, by giving required input, the LEDs starts to glow light, 
 
 
 
-2 bit Multiplier
+2 Bit Multiplier:
 
 
 
@@ -104,7 +104,7 @@ endmodule
 
 
 
-**Logic Diagram**
+**Logic Diagram**:
 
 
 
@@ -112,15 +112,11 @@ endmodule
 
 
 
-output:
+OUTPUT:
 
 
 
 ![2mul](https://github.com/nithiyashree2533/VLSI-LAB-EXP-3/assets/161813688/f2a1c219-718b-4dd0-9312-464cf1c9501b)
-
-
-
-logic diagram:
 
 
 
@@ -172,7 +168,7 @@ endmodule
 
 
 
-logic diagram:
+Logic diagram:
 
 
 
