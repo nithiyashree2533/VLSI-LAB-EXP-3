@@ -1,4 +1,10 @@
-SIMULATION AND IMPLEMENTATION OF MULTIPLIER
+EXP -3
+
+Date:22.3.24
+                 
+                 
+                 
+                 SIMULATION AND IMPLEMENTATION OF MULTIPLIER
 
 
 
@@ -6,15 +12,17 @@ SIMULATION AND IMPLEMENTATION OF MULTIPLIER
 
 
 
- To simulate and synthesis multiplier using Xilinx ISE.
+        To simulate and synthesis multiplier using Xilinx ISE.
 
  
 
 **APPARATUS REQUIRED:**
 
 
-Xilinx 14.7
-Spartan6 FPGA
+
+         Vivado 2023.2
+
+
   
 **PROCEDURE:**
 
@@ -65,17 +73,11 @@ STEP:11  On the board, by giving required input, the LEDs starts to glow light, 
 
 
 
-
 **Logic Diagram**
 
 
 
-
 2 bit Multiplier
-
-
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/7713750f-65e6-41c0-8082-5005eac4031c)
 
 
 
@@ -102,27 +104,30 @@ endmodule
 ```
 
 
+
+**Logic Diagram**
+
+
+
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/7713750f-65e6-41c0-8082-5005eac4031c)
+
+
+
 output:
+
 
 
 ![2mul](https://github.com/nithiyashree2533/VLSI-LAB-EXP-3/assets/161813688/f2a1c219-718b-4dd0-9312-464cf1c9501b)
 
 
 
-
 logic diagram:
 
 
+
 **4 Bit Multiplier**
-
-
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/d95215dd-8cf1-4e08-93cc-96adfdd7fbdc)
-
-
-
-
 **Verilog code**
+
 
 
 ```
@@ -162,6 +167,13 @@ fa fa8 (w[11],x[3]&y[3],w[17],z[6],z[7]);
 
 endmodule
 ```
+
+
+
+logic diagram:
+
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/d95215dd-8cf1-4e08-93cc-96adfdd7fbdc)
+
 
 
 **Output Waveform**
